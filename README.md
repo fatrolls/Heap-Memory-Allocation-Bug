@@ -1,5 +1,5 @@
 # Heap-Memory-Allocation-Bug
-Heap Memory Allocation Bug. This hooks `malloc` and `free` to perform the bug. It also uses the library Heapy from @ https://github.com/lukedodd/Heapy
+Heap Memory Allocation Bug. This hooks `malloc` and `free` to perform the bug. It also uses the library Heapy (A Simple Heap Profiler) from @ https://github.com/lukedodd/Heapy
 
 # Sections :
 	- Description
