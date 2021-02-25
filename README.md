@@ -1,5 +1,5 @@
 # Heap-Memory-Allocation-Bug
-Heap Memory Allocation Bug.
+Heap Memory Allocation Bug. This hooks `malloc` and `free` to perform the bug.
 
 # Sections :
 	- Description
